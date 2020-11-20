@@ -5,7 +5,7 @@
   "name": "DLive API",
   "version": "0.0.1",
   "description": "Cheerio,Axios ve NodeJS ile oluşturulmuş basit bir DLive(Unoffical) API.",
-  "author":"Muhammed BÜYÜKPOLAT",
+  "author":"tanec",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
